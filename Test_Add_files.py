@@ -3,4 +3,6 @@ import os
 print ("Hi, the current work directory is: " + os.getcwd())
 
 # Adding a line here to create a conflict
-# Adding a 2nd line here to create a conflict
+# Adding a 2nd line here to create a conflict# Adding a hello world test
+print("Hi there from tanges@hotmail,com")
+
